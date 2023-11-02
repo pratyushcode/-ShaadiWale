@@ -1,6 +1,6 @@
 # ShadiWaale
 
-ShadiWaale is a WebApp built with ReactJs and Django REST framework as a submission for GDSC IIITD Webdev+Hackathon.
+ShadiWaale is a beautifully crafted WebApp built with the powerful combination of ReactJs and Django REST framework. It was developed as a submission for the GDSC IIITD Webdev+Hackathon, showcasing the perfect blend of frontend and backend technologies.
 
 ## Installation
 
